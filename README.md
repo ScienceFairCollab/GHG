@@ -1,3 +1,3 @@
 # GHG
 
-AI study for GHG for developing nations
+AI GHG study for developing nations
